@@ -9,4 +9,3 @@ function happyHolidayTo(holiday, name) {
   console.log (`Happy ${holiday}, ${name}!`)
 }
 
-
