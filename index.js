@@ -8,3 +8,4 @@ function happyHolidaysTo(name) {
 function happyHolidayTo(string) {
   return `Happy ${holiday}, ${name}!`
 }
+var holiday = Thanksgiving
