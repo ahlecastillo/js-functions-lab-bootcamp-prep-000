@@ -8,7 +8,5 @@ function happyHolidaysTo(name) {
 function happyHolidayTo(holiday, name) {
   console.log (`Happy ${holiday}, ${name}!`)
 }
-var holiday = Independence Day 
-var name = you 
 
 
